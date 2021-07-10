@@ -17,6 +17,7 @@ import org.springframework.web.client.RestTemplate;
 @EnableHystrix
 public class HystrixApplication {
 
+	//github URL - https://github.com/Netflix/Hystrix
 	public static void main(String[] args) {
 		SpringApplication.run(HystrixApplication.class, args);
 	}
