@@ -20,6 +20,7 @@ import org.springframework.web.client.RestTemplate;
 public class HystrixApplication {
 
 	//github URL - https://github.com/Netflix/Hystrix
+	//watch video if you stuck - https://www.youtube.com/watch?v=A2IhEwbniLI
 	public static void main(String[] args) {
 		SpringApplication.run(HystrixApplication.class, args);
 	}
